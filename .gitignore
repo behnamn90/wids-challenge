@@ -1,2 +1,7 @@
 .venv
 .DS_Store
+
+wids2024challenge1-baseline-v1.ipynb
+nlp-ensemble-on-cleandata.ipynb
+catboost-joker.ipynb
+catboost_info
